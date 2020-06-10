@@ -12,3 +12,6 @@ Conheça o [dicionário de dados referente às bolsas concedidas e ao perfil dos
 ## Tópicos da análise
 - Quais são os 5 cursos que obtiveram maior concessão de bolsas em universidades particulares do Brasil no ano de 2016.
 - Mapa de calor que mostra a concentração de cidades que mais obtiveram aprovação de bolsas, também no ano de 2016.
+
+## Imagem do mapa após a execução do script
+
