@@ -15,3 +15,5 @@ Conheça o [dicionário de dados referente às bolsas concedidas e ao perfil dos
 
 ## Imagem do mapa após a execução do script
 
+analise_dados_mec_img.png
+
