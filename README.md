@@ -11,7 +11,6 @@ Conheça o [dicionário de dados referente às bolsas concedidas e ao perfil dos
 
 ## Tópicos da análise
 - Mapa de calor que mostra a concentração de municípios que mais obtiveram aprovação de bolsas em universidades no ano de 2016.
-- Os 5 cursos com maior ocorrência de aprovação de bolsas.
 
 ## O resultado após a execução do script
 O mapa a seguir mostra quais foram as cidades que obtiveram bolsas no programa Prouni, através de sua localização, e as áreas com maior concentração. Aa áreas com maior concentração são representadas de forma mais "quente" e as com menor, "fria". Lembrando que esses não são os dados totais, e sim uma pequena amostra (500 linhas de valores).
@@ -20,9 +19,3 @@ Para coloração do mapa foi utilizado um arquivo com extensão .csv - disponibi
 ![alt text](analise_dados_mec_mapa_p1_img.png)
 
 ![alt text](analise_dados_mec_mapa_p2_img.png)
-
-Aqui mostra quais são os cursos que mais obtiveram aprovação de bolsas no programa Prouni (limitado aos 5 primeiros).
-
-![alt text](analise_dados_mec_cursos_img.png)
-
-
